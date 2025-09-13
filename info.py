@@ -65,10 +65,10 @@ PUBLIC_FILE_STORE = bool(environ.get('PUBLIC_FILE_STORE', True))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/vj_bot_disscussion')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/vj_botz')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'vj_bot_disscussion')
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/kingvj01')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/animegp4')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/animegp1')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'botsupporthd')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/anganbk4')
 
 # Clone mode
 CLONE_MODE = bool(environ.get('CLONE_MODE', False))
@@ -104,3 +104,4 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
